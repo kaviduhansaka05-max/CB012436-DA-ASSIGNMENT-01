@@ -1,0 +1,5 @@
+,Ticket_Price,Merchandise_Spend,Drink_Spend,Satisfaction_Score
+Ticket_Price,1.0,-0.03,-0.06,0.02
+Merchandise_Spend,-0.03,1.0,0.08,0.04
+Drink_Spend,-0.06,0.08,1.0,0.02
+Satisfaction_Score,0.02,0.04,0.02,1.0

@@ -1,0 +1,4 @@
+Variable,Q1,Q3,IQR,Lower_Bound,Upper_Bound,Number_of_Outliers
+Merchandise_Spend,28.38,83.08,54.7,-53.68,165.14,23
+Drink_Spend,9.76,26.49,16.72,-15.32,51.58,26
+Satisfaction_Score,7.1,9.0,1.9,4.25,11.85,3

@@ -1,0 +1,5 @@
+Seating_Region,Count,Mean,Median,Std_Dev,Min,Max
+Economy,246,1.36,1.15,0.78,0.19,3.99
+High Economy,228,0.79,0.72,0.43,0.07,2.67
+Premium,189,0.54,0.49,0.31,0.07,1.53
+VIP,137,0.37,0.34,0.2,0.03,1.26
